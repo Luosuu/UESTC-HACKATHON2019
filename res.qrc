@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bird.jpg</file>
+        <file>shop.jpg</file>
+        <file>turnip.jpg</file>
+        <file>cabbage.jpg</file>
+        <file>flower0.jpg</file>
+        <file>flower1.jpg</file>
+        <file>flower2.jpg</file>
+        <file>flower3.jpg</file>
+        <file>pumpkin.jpg</file>
+        <file>fishing_pool.jpg</file>
+        <file>fish.png</file>
+        <file>main_background.png</file>
+        <file>house.png</file>
+        <file>add_water.png</file>
+        <file>farm.jpg</file>
+        <file>add_food.png</file>
+    </qresource>
+</RCC>
